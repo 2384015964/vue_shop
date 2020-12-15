@@ -1,0 +1,58 @@
+{
+  "id": "1938991",
+  "name": "elementui",
+  "font_family": "iconfont",
+  "css_prefix_text": "ei-icon-z",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1137786",
+      "name": "商品",
+      "font_class": "shangpin",
+      "unicode": "e67b",
+      "unicode_decimal": 59003
+    },
+    {
+      "icon_id": "8776785",
+      "name": "order_unread",
+      "font_class": "icon-test",
+      "unicode": "e63a",
+      "unicode_decimal": 58938
+    },
+    {
+      "icon_id": "11488100",
+      "name": "product",
+      "font_class": "product",
+      "unicode": "e75d",
+      "unicode_decimal": 59229
+    },
+    {
+      "icon_id": "11488248",
+      "name": "Customer management-fill",
+      "font_class": "Customermanagement-fill",
+      "unicode": "e77c",
+      "unicode_decimal": 59260
+    },
+    {
+      "icon_id": "11488292",
+      "name": "phone-fill",
+      "font_class": "phone-fill",
+      "unicode": "e787",
+      "unicode_decimal": 59271
+    },
+    {
+      "icon_id": "11488320",
+      "name": "shuffling-banner-fill",
+      "font_class": "shuffling-banner-fill",
+      "unicode": "e78d",
+      "unicode_decimal": 59277
+    },
+    {
+      "icon_id": "7090030",
+      "name": "登录",
+      "font_class": "denglu",
+      "unicode": "e70a",
+      "unicode_decimal": 59146
+    }
+  ]
+}
