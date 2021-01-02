@@ -297,7 +297,8 @@ export default {
     },
     // 级联选择框 选中变化 触发
     handleChange() {
-      this.getParamsData();
+      // this.getParamsData();
+      console.log(this.selectedCateKeys);
     },
     // Tab页签点击事件的处理函数
     handleTabsClick() {

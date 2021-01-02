@@ -2,13 +2,14 @@ import Vue from "vue";
 import App from "./App.vue";
 import router from "./router";
 import "./plugins/element.js";
+import "./plugins/day.js";
 import "./assets/css/golobal.css";
 // import './assets/font-awesome/css/font-awesome.min.css'
 import "./assets/font/iconfont.css";
 import axios from "axios";
 import TreeTable from "vue-table-with-tree-grid";
 
-axios.defaults.baseURL = "http://119.23.53.78:8888/api/private/v1/";
+axios.defaults.baseURL = "https://www.liulongbin.top:8888/api/private/v1/";
 // axios.defaults.baseURL = "http://localhost:8888/api/private/v1/";
 Vue.prototype.$http = axios;
 axios.interceptors.request.use((config) => {
